@@ -130,4 +130,22 @@ struct node*polyadd(struct node *poly1,struct node *poly2)
     }
     return (res);
 }
+/*output
+polynomial
+5 ,6
+4 ,3
+6 ,2
+7 ,1
+8 ,0
+polynomial
+13 ,4
+14 ,3
+16 ,2
+polynomial
+5 ,6
+13 ,4
+18 ,3
+22 ,2
+7 ,1
+8 ,0
 

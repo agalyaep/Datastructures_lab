@@ -75,4 +75,8 @@ int main()
     printf("\nPostfix Expression = %s\n",postfix);
     return 0;
 }
+/*output
+Enter Infix Expression : a*b+c
+
+Postfix Expression = ab*c+
 

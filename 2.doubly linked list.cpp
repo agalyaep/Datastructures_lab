@@ -211,4 +211,10 @@ void deletionend()
     }
     t->next=NULL;
 }
-
+/*output
+enter 1 for insert at beginning ,2 for insert at mid ,3 for insert end, 4 for deletebed ,5 for delete mid ,6 for delete end ,7 for exit :1
+enter no of element want to insert at beg :2
+enter data :13
+enter data :14
+the linked list are
+14->13->enter 1 for insert at beginning ,2 for insert at mid ,3 for insert end, 4 for deletebed ,5 for delete mid ,6 for delete end ,7 for exit :7

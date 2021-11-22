@@ -254,4 +254,11 @@ int main()
 
     return 0; 
 
-}  
+} 
+/*output
+Binary search tree - inorder traversal:
+1 2 3
+Binary search tree - preorder traversal:
+2 1 3
+Binary search tree - postorder traversal:
+1 3 2 

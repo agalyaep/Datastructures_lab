@@ -44,5 +44,16 @@ int main()
     dfs(source-1);
     return 0;
 }
-
+/*output
+                        graphs
+enter the number of edges:3
+enter the number of vertices:3
+enter the edges (format: v1 v2):1 2
+enter the edges (format: v1 v2):1 3
+enter the edges (format: v1 v2):2 3
+011
+001
+000
+enter the source:1
+1->2->3->
 

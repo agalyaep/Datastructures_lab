@@ -48,5 +48,9 @@ if(ch!=3)
 printf("\nResult : %d",n3);
 return 0;
 }
+/*output
+Enter the postfix Expression : 34*2+
+
+Result : 14
 
 

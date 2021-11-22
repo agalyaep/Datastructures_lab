@@ -5,7 +5,7 @@ struct node
 {
 int data;
 struct node *next;
-}*head,*tail,*tail,*temp,*t,*prev;
+}*head,*tail,*temp,*t,*prev;
 void createnode();
 void createlink(int n);
 void traverse();
@@ -201,5 +201,12 @@ free(temp);
 printf("the linked list after deletion at mid");
 traverse();
 }
-
+/*outpu
+enter 1 for createlink ,2 for insert at beg, 3 for insert at mid,4 for insert at end, 5 for delete beg,6 for delete mid, 7 for delete end ,8 for traverse 9 for exit 1
+enter no of nodes in list2
+enter data :
+1
+enter data :
+2
+enter 1 for createlink ,2 for insert at beg, 3 for insert at mid,4 for insert at end, 5 for delete beg,6 for delete mid, 7 for delete end ,8 for traverse 9 for exit 9
 

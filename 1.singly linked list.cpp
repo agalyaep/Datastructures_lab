@@ -213,5 +213,23 @@ void delete_end()
         temp=NULL;
     }
 }
-
+/* ouput
+enter how many nodes you want to create:3
+enter the data 1
+1
+enter the data 2
+2
+enter the data 3
+3
+press 1 for  insertion at beginning press 2 for  insertion at middle press 3 for  insertion at end 4 for deletion at beggining 5 for deletion at middle 6 for deletion at end2
+enter the element after which you wanna insert2
+enter the data which you want to insert2
+the data of 1 node is
+1
+the data of 2 node is
+2
+the data of 3 node is
+2
+the data of 4 node is
+3*/
 

@@ -33,4 +33,21 @@ printf("%d \t",arr[i]);
 }
 return 0;
 }
+/*output
+Enter the number of Elements : 5
+
+Enter Element 1 : 13
+
+Enter Element 2 : 1
+
+Enter Element 3 : 16
+
+Enter Element 4 : 11
+
+Enter Element 5 : 5
+
+
+***Sorted Array***
+
+1       5       11      13      16
 
